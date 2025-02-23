@@ -13,7 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome to my site" />
         <p className="description">
-           <code> pages/index.js</code>
+        The website is under heavy development !
+           <code> This is an automated stub for the tarantula project </code>
         </p>
       </main>
 
