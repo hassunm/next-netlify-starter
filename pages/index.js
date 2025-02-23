@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my site" />
-        <p className="description">
-        The website is under heavy development !
+        <Header title="Welcome to HI Stratagem (SMC Pvt) Ltd" />
+        <div>The web app is under heavy development</div>
+	<p className="description">
            <code> This is an automated stub for the tarantula project </code>
         </p>
       </main>
