@@ -9,12 +9,12 @@ export default function Home() {
         <title>Hassun Information Stratagem SMC Pvt Ltd</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+    <div className="nav">one</div>
       <main>
         <Header title="Welcome to HI Stratagem (SMC Pvt) Ltd" />
-        <div>The web app is under heavy development</div>
+        <div className="container1">The web app is under development</div>
 	<p className="description">
-           <code> This is an automated stub for the tarantula project </code>
+           <code>tarantula project stub </code>
         </p>
       </main>
 
